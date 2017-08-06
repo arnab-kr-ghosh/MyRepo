@@ -1,4 +1,5 @@
-[
+{
+posts:[
   {
     "firstName": "John",
 	"lastName": "Mathews",
@@ -35,3 +36,4 @@
 	"phone": "8009878987"
   }
 ]
+}
