@@ -1,202 +1,142 @@
 [
   {
-    "id": 1,
     "firstName": "John",
 	"lastName": "Mathews",
 	"company": "ABC Ltd",
-	"status": "Open",
 	"email": "john.mathews@abc.com",
-	"phone": "8987898700",
-	"currency": "INR"
+	"phone": "8987898700"
   },
   {
-    "id": 2,
     "firstName": "Rik",
 	"lastName": "Dey",
 	"company": "ABC Ltd",
-	"status": "Open",
 	"email": "rik.dey@abc.com",
-	"phone": "8987898907",
-	"currency": "INR"
+	"phone": "8987898907"
   },
   {
-    "id": 3,
     "firstName": "Rishi",
 	"lastName": "Roy",
 	"company": "ABC Ltd",
-	"status": "Open",
 	"email": "rishi.roy@abc.com",
-	"phone": "8988078987",
-	"currency": "INR"
+	"phone": "8988078987"
   },
   {
-    "id": 4,
     "firstName": "Arun",
 	"lastName": "Bose",
 	"company": "XYZ Info Ltd",
-	"status": "Open",
 	"email": "arun.bose@xyz.com",
-	"phone": "8987788987",
-	"currency": "INR"
+	"phone": "8987788987"
   },
   {
-    "id": 5,
     "firstName": "Abhishek",
 	"lastName": "Banerjee",
 	"company": "ABC Ltd",
-	"status": "Open",
 	"email": "abhi.ban@abc.com",
-	"phone": "8009878987",
-	"currency": "INR"
+	"phone": "8009878987"
   },
   {
-    "id": 6,
     "firstName": "Sohini",
 	"lastName": "Das",
 	"company": "XYZ Info Ltd",
-	"status": "Open",
 	"email": "sohini.das@xyz.com",
-	"phone": "8987118987",
-	"currency": "INR"
+	"phone": "8987118987"
   },
   {
-    "id": 7,
     "firstName": "Ratul",
 	"lastName": "Dutta",
 	"company": "Energetic Solutions",
-	"status": "Open",
 	"email": "ratul.dutta@energeticsol.com",
-	"phone": "8987893387",
-	"currency": "INR"
+	"phone": "8987893387"
   },
   {
-    "id": 8,
     "firstName": "Vishal",
 	"lastName": "Sharma",
 	"company": "ABC Ltd",
-	"status": "Open",
 	"email": "vishal.sharma@abc.com",
-	"phone": "8987348987",
-	"currency": "INR"
+	"phone": "8987348987"
   },
   {
-    "id": 9,
     "firstName": "Nitin",
 	"lastName": "Dubey",
 	"company": "Energetic Solutions",
-	"status": "Open",
 	"email": "nitin.dubey@energeticsol.com",
-	"phone": "8986678987",
-	"currency": "INR"
+	"phone": "8986678987"
   },
   {
-    "id": 10,
     "firstName": "Barun",
 	"lastName": "Biswas",
 	"company": "Agarwal Ltd",
-	"status": "Open",
 	"email": "barun.biswas@agarwal.com",
-	"phone": "8987118987",
-	"currency": "INR"
+	"phone": "8987118987"
   },
   {
-    "id": 11,
     "firstName": "Shitesh",
 	"lastName": "Roy",
 	"company": "Agarwal Ltd",
-	"status": "Open",
 	"email": "shitesh.roy@agarwal.com",
-	"phone": "8987844987",
-	"currency": "INR"
+	"phone": "8987844987"
   },
   {
-    "id": 12,
     "firstName": "Andrew",
 	"lastName": "Jones",
 	"company": "XYZ Info Ltd",
-	"status": "Open",
 	"email": "andrew.jones@xyz.com",
-	"phone": "8987890987",
-	"currency": "INR"
+	"phone": "8987890987"
   },
   {
-    "id": 13,
     "firstName": "Dhiren",
 	"lastName": "Basu",
 	"company": "Energetic Solutions",
-	"status": "Open",
 	"email": "john.mathews@energeticsol.com",
-	"phone": "8987832987",
-	"currency": "INR"
+	"phone": "8987832987"
   },
   {
-    "id": 14,
     "firstName": "Bibhas",
 	"lastName": "Dalal",
 	"company": "Agarwal Ltd",
-	"status": "Open",
 	"email": "bibhas.dalal@agarwal.com",
-	"phone": "8987778987",
-	"currency": "INR"
+	"phone": "8987778987"
   },
   {
-    "id": 15,
     "firstName": "Nilima",
 	"lastName": "Sen",
 	"company": "XYZ Info Ltd",
-	"status": "Open",
 	"email": "nil.sen@xyz.com",
-	"phone": "8987898755",
-	"currency": "INR"
+	"phone": "8987898755"
   },
   {
-    "id": 16,
     "firstName": "Bruno",
 	"lastName": "Lobo",
 	"company": "Hitech Solutions",
-	"status": "Open",
 	"email": "bruno.lobo@hitech.com",
-	"phone": "8987898227",
-	"currency": "INR"
+	"phone": "8987898227"
   },
   {
-    "id": 17,
     "firstName": "Karan",
 	"lastName": "Ray",
 	"company": "Hitech Solutions",
-	"status": "Open",
 	"email": "karan.ray@hitech.com",
-	"phone": "8987866987",
-	"currency": "INR"
+	"phone": "8987866987"
   },
   {
-    "id": 18,
     "firstName": "Dhritiman",
 	"lastName": "Bose",
 	"company": "Hitech Solutions",
-	"status": "Open",
 	"email": "dhriti.bose@hitech.com",
-	"phone": "8982278987",
-	"currency": "INR"
+	"phone": "8982278987"
   },
   {
-    "id": 19,
     "firstName": "Sneha",
 	"lastName": "Kiran",
 	"company": "Dastur Ltd",
-	"status": "Open",
 	"email": "john.mathews@dastur.com",
-	"phone": "8911878987",
-	"currency": "INR"
+	"phone": "8911878987"
   },
   {
-    "id": 20,
     "firstName": "Sayan",
 	"lastName": "Mukherjee",
 	"company": "Dastur Ltd",
-	"status": "Open",
 	"email": "sayan.mukherjee@dastur.com",
-	"phone": "8987890087",
-	"currency": "INR"
+	"phone": "8987890087"
   }
 ]
